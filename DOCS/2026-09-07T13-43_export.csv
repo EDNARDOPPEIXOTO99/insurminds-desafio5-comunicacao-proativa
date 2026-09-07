@@ -1,0 +1,21 @@
+﻿nome,cidade,uf,tipo_seguro,canal_contato
+Maria Oliveira,Fortaleza,CE,Residencial,SMS
+João Pereira,Fortaleza,CE,Automóvel,E-mail
+Ana Souza,Recife,PE,Residencial,SMS
+Carlos Lima,Recife,PE,Automóvel,SMS
+Beatriz Santos,Salvador,BA,Residencial,E-mail
+Rafael Costa,Salvador,BA,Automóvel,SMS
+Fernanda Alves,Rio de Janeiro,RJ,Residencial,SMS
+Bruno Ferreira,Rio de Janeiro,RJ,Automóvel,E-mail
+Juliana Rocha,Santos,SP,Residencial,SMS
+Marcos Silva,Santos,SP,Automóvel,SMS
+Patrícia Gomes,São Paulo,SP,Residencial,E-mail
+Eduardo Martins,São Paulo,SP,Automóvel,SMS
+Camila Barbosa,Belo Horizonte,MG,Residencial,SMS
+Rodrigo Nunes,Belo Horizonte,MG,Automóvel,E-mail
+Larissa Dias,Porto Alegre,RS,Residencial,SMS
+Thiago Ramos,Porto Alegre,RS,Automóvel,SMS
+Vanessa Cardoso,Natal,RN,Residencial,E-mail
+Diego Araújo,Natal,RN,Automóvel,SMS
+Priscila Teixeira,Florianópolis,SC,Residencial,SMS
+Gustavo Moreira,Florianópolis,SC,Automóvel,E-mail
